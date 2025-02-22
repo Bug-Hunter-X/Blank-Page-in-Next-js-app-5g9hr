@@ -1,0 +1,2 @@
+# Next.js Blank Page Bug
+This repository demonstrates a common Next.js bug where the app shows a blank page instead of rendering the content of a component. The bug is caused by a missing or incorrect export in the component file. The solution involves ensuring that the component is correctly exported and rendered by the page.
